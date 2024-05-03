@@ -1,5 +1,29 @@
-The writing in mintenv.txt is very very very very very very clear
+我相信里面的步骤非常清楚了
 
-If you still don't know what to do
+为什么没有使用vim作为可选的编辑器
 
-Give up Linux
+因为 "LinuxMint" 压根没装这个东西
+
+所以先用nano代替
+
+至于使用方法
+
+网上搜更快更便捷
+
+=======================================
+
+这是适用于最新推荐版本 (Ubuntu版本) 的换源操作
+
+我们不提供Debian版本的换源操作
+
+因为不是官方推荐版本
+
+它只是个代替版本
+
+换源完成先执行reboot
+
+或者手动重启也行
+
+最后执行sudo apt update && sudo apt upgrade
+
+一切都会完成的
