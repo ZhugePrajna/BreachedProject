@@ -1,7 +1,15 @@
-Download your golang from https://go.dev/
+从这里下载属于你系统的Golang: https://go.dev/
 
-Then run your golang: go version
+随便你怎么安装
 
-If go tells you its information
+最终你得执行命令: go version
 
-Just go to Golang.txt and execute the command
+并且得看到成功输出的字符
+
+上述全部成功完成后
+
+将Golang.txt里面的命令执行
+
+一切都会完成的
+
+:)
