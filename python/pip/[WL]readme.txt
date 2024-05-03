@@ -1,9 +1,13 @@
-Find the "~/.pip/pip.conf" file in LinuxOS
+在LinuxOS里面尝试寻找这个文件目录: "~/.pip/pip.conf"
 
-Then copy the contents of "pip.ini"
+然后将 "pip.ini" 里面的内容复制到 "pip.conf" 文件中去
 
-Do this in WindowsOS:
+对于WindowsOS:
 
-Go here: C:\Users\username\AppData\Roaming
+找到这个文件目录: C:\Users\username\AppData\Roaming
 
-Then throw the "pip" file into it
+然后将整个pip目录放进去
+
+最后执行pip config list命令
+
+无错误输出则完成
