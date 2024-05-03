@@ -1,0 +1,15 @@
+# ==========================================================================
+# Title: ZhugePrajna Personal Dedicated "kali.env" Settings
+# Date:  03 May 2024 07:21:00
+# ==========================================================================
+# Pick one of two
+sudo vim /etc/apt/sources.list
+sudo nano /etc/apt/sources.list
+
+# STsinghua Env:
+deb https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main non-free contrib
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main non-free contrib
+
+# USTC Env:
+deb https://mirrors.ustc.edu.cn/kali kali-rolling main non-free non-free-firmware contrib
+# deb-src https://mirrors.ustc.edu.cn/kali kali-rolling main non-free non-free-firmware contrib

@@ -1,0 +1,54 @@
+# ==========================================================================
+# Title: ZhugePrajna Personal Dedicated "rust.cargo" Settings
+# Date:  03 May 2024 07:21:00
+# ==========================================================================
+# Environment Settiings For "Install Rust":
+#
+# [For Windows]
+# $ENV:RUSTUP_DIST_SERVER='https://mirrors.ustc.edu.cn/rust-static'
+# $ENV:RUSTUP_UPDATE_ROOT='https://mirrors.ustc.edu.cn/rust-static/rustup'
+# .\rustup-init.exe
+#
+# [For Linux]
+# export RUSTUP_DIST_SERVER=https://mirrors.ustc.edu.cn/rust-static
+# export RUSTUP_UPDATE_ROOT=https://mirrors.ustc.edu.cn/rust-static/rustup
+# source ~/.bashrc(~/.zshrc)
+# curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+# ==========================================================================
+# Environment Settiings For "Cargo":
+#
+# [source.crates-io]
+# registry = "https://github.com/rust-lang/crates.io-index"
+# 指定镜像
+# replace-with = '镜像源名' # 如：tuna、sjtu、ustc，或者 rustcc
+#
+# 注：以下源配置一个即可，无需全部
+#
+# 中国科学技术大学
+# [source.ustc]
+# registry = "https://mirrors.ustc.edu.cn/crates.io-index"
+# >>> 或者 <<<
+# registry = "git://mirrors.ustc.edu.cn/crates.io-index"
+#
+# 上海交通大学
+# [source.sjtu]
+# registry = "https://mirrors.sjtug.sjtu.edu.cn/git/crates.io-index/"
+#
+# 清华大学
+# [source.tuna]
+# registry = "https://mirrors.tuna.tsinghua.edu.cn/git/crates.io-index.git"
+#
+# rustcc社区
+# [source.rustcc]
+# registry = "https://code.aliyun.com/rustcc/crates.io-index.git"
+# ==========================================================================
+# cargo 1.68 版本开始支持稀疏索引：
+
+[source.crates-io]
+replace-with = 'ustc'
+
+[source.ustc]
+registry = "sparse+https://mirrors.ustc.edu.cn/crates.io-index"
+
+# END
+# ==========================================================================
