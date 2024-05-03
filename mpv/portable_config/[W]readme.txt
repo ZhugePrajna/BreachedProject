@@ -1,5 +1,9 @@
-Download your own mpv from https://mpv.io/
+从这里下载符合你系统的MPV: https://mpv.io/
 
-Then find where it is installed
+这一步是你自行安装MPV
 
-Throw the entire "portable_config" folder into it
+最后将 "portable_config" 整个文件夹丢到你安装MPV的目录去
+
+删除[W]readme.txt
+
+因为你完美做到了
