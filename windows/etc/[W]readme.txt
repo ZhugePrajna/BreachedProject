@@ -1,7 +1,8 @@
-[Notice]
-This is just in line with ZhugePrajna’s personal settings
-If you have any needs, please set it yourself
+[警告]
+这只对ZhugePrajna个人适用
+如果你有其他需求
+请自行手动编辑这个hosts文件
 
-Go here: C:\Windows\System32\drivers\etc
+找到这个文件目录 C:\Windows\System32\drivers\etc
 
-Then replace "hosts"
+替换里面的 "hosts" 文件即可
