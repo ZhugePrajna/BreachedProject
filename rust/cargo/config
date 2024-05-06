@@ -45,10 +45,10 @@
 # cargo 1.68 版本开始支持稀疏索引：
 
 [source.crates-io]
-replace-with = 'ustc'
+replace-with = 'mirror'
 
-[source.ustc]
-registry = "sparse+https://mirrors.ustc.edu.cn/crates.io-index"
+[source.mirror]
+registry = "sparse+https://mirrors.tuna.tsinghua.edu.cn/crates.io-index/"
 
 # END
 # ==========================================================================
