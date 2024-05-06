@@ -32,16 +32,6 @@ So I will tell you:
 
 Finally, match the settings you want based on your OS and do it by yourself!
 
-# Is there any Chinese introduction?
-
-Yes, there are instructions in Chinese.
-
-But, I'm lazy!
-
-# How many projects are there in BreachedProject?
-
-If you ask me, I don’t know either XD
-
 # Can I also join this project?
 
 sure!
