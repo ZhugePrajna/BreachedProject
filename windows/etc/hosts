@@ -45,6 +45,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.weibo.com
 0.0.0.0 weibo.com
 0.0.0.0 m.weibo.cn
+0.0.0.0 ent.sina.cn
+0.0.0.0 www.sina.com.cn
+0.0.0.0 news.sina.cn
+0.0.0.0 sina.cn
+0.0.0.0 finance.sina.com.cn
 
 0.0.0.0 www.douyin.com
 0.0.0.0 live.douyin.com
@@ -57,9 +62,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mandaow.com
 
 0.0.0.0 www.csdn.net
+
 0.0.0.0 www.zhihu.com
 0.0.0.0 zhuanlan.zhihu.com
+0.0.0.0 www.xiaohongshu.com
+
 0.0.0.0 baijiahao.baidu.com
 0.0.0.0 news.qq.com
 0.0.0.0 www.msn.com
 0.0.0.0 www.msn.cn
+0.0.0.0 www.xinhuanet.com
+0.0.0.0 www.bjnews.com.cn
+0.0.0.0 news.sohu.com
+0.0.0.0 www.gmw.cn
+0.0.0.0 www.cfen.com.cn
+0.0.0.0 m.yicai.com
