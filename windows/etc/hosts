@@ -68,6 +68,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xiaohongshu.com
 
 0.0.0.0 baijiahao.baidu.com
+0.0.0.0 tieba.baidu.com
+
 0.0.0.0 news.qq.com
 0.0.0.0 www.msn.com
 0.0.0.0 www.msn.cn
@@ -77,3 +79,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.gmw.cn
 0.0.0.0 www.cfen.com.cn
 0.0.0.0 m.yicai.com
+0.0.0.0 news.163.com
+0.0.0.0 www.163.com
+0.0.0.0 m.163.com
