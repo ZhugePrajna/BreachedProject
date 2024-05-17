@@ -4,36 +4,24 @@ BreachedProject是ZhugePrajna的个人维护项目
 
 这个项目旨在于拒绝互联网所提供的垃圾信息
 
-并且为一些软件或者设置文件提供有意义的设置
+并且为一些软件或者config文件提供有意义的设置
 
-# What is BreachedProject?
+# 为什么要创建BreachedProject项目?
 
-BreachedProject is Zhuge Prajna's personal "settings" project
+因为SB互联网逐渐国行化
 
-The project aims to deny advertising information provided by the Internet
+不仅提供 Fake News 还提供 Ads 信息 
 
-And provide more efficient "settings" operation/text
+不愿意去解决 只好走这个项目"曲线救国"
 
-# How should I use these items?
+# 我是否可以加入BreachedProject?
 
-First, you need to enter the project you want to use and view "readme.txt".
+当然可以
 
-Then, you may want to know what is in the "[]" in front of "readme.txt".
+尤其是 【windows/etc/hosts】 这个子项目
 
-So I will tell you:
+需要一群热衷于反对Fake News && Ads的朋友加入
 
-  W stands for WindowsOS,
-  
-  L stands for LinuxOS,
-  
-  A is for MacOS (I can’t write about this! Because I don’t have the money to buy it!)
-  
-  U stands for Ancient OS (actually I don’t know what it is)
+# BreachedProject究竟可以做什么?
 
-Finally, match the settings you want based on your OS and do it by yourself!
-
-# Can I also join this project?
-
-sure!
-
-We need humans who like to challenge themselves!
+做最后的良心 :)
