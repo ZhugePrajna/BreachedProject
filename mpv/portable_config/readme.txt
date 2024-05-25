@@ -4,6 +4,6 @@
 
 最后将 "portable_config" 整个文件夹丢到你安装MPV的目录去
 
-删除[W]readme.txt
+删除readme.txt
 
 因为你完美做到了
