@@ -88,3 +88,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.qidian.com
 0.0.0.0 www.qdmm.com
 0.0.0.0 fanqienovel.com
+
+0.0.0.0 pcmanager.microsoft.com
+0.0.0.0 www.officeplus.cn
+0.0.0.0 lockscreen.microsoft.com
