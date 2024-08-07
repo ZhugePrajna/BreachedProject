@@ -1,9 +1,3 @@
-# ==========================================================================
-# Title: ZhugePrajna Personal Dedicated "qBT.config" Settings
-# Date:  03 May 2024 07:21:00
-# ==========================================================================
-# https://cf.trackerslist.com/all.txt
-
 -GT0003- github.com/anacrolix/torrent
 -DT0001- dt/torrent
 -HP0001- hp/torrent
@@ -11,3 +5,4 @@
 -GT0003- github.com/anacrolix/torrent\s\(devel\)\s\(anacrolix/torrent\sunknown\)
 -DT0001- .*
 -HP0001- .*
+-XM0001- .*
