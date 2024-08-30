@@ -1,11 +1,14 @@
-# ==========================================================================
-# Title: ZhugePrajna Personal Dedicated "golang.env" Settings
-# Date:  03 May 2024 07:21:00
-# ==========================================================================
-go env -w GO111MODULE=on
++-------------------------------------------------------------+
+| Title: ZhugePrajna Personal Dedicated "golang.env" Settings |
+| Date:  03 May 2024 07:21:00                                 |
++-------------------------------------------------------------+
 
-# Pick one of two
-go env -w GOPROXY=https://goproxy.cn,direct
-go env -w GOPROXY=https://goproxy.io,direct
+0x00 Set GO111MODULE:
+    go env -w GO111MODULE=on
 
-go env -w GOSUMDB=sum.golang.google.cn
+0x01 Pick one of two:
+    go env -w GOPROXY=https://goproxy.cn,direct
+    go env -w GOPROXY=https://goproxy.io,direct
+
+0x02 Set GOSUMDB:
+    go env -w GOSUMDB=sum.golang.google.cn
