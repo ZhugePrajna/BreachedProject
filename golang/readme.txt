@@ -1,6 +1,6 @@
-从这里下载属于你系统的Golang: https://go.dev/
+从官网下载属于你系统的Golang: https://go.dev/
 
-随便你怎么安装
+这是官网的安装教程: https://go.dev/doc/install
 
 最终你得执行命令: go version
 
