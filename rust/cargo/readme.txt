@@ -1,8 +1,8 @@
 "config.toml"文件里面的步骤非常清楚
 
-里面既包含怎么在WindowsOS系统里面安装Rust
+里面既包含怎么在WindowsOS里面安装Rust
 
-又包含怎么在LinuxOS系统里面安装Rust
+又包含怎么在LinuxOS里面安装Rust
 
 别忘记找.cargo这个文件目录
 

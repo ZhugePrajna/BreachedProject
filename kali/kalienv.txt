@@ -7,11 +7,7 @@
     sudo vim /etc/apt/sources.list
     sudo nano /etc/apt/sources.list
 
-0x01 Editing the file (Pick one of two):
-
-    # STsinghua Env:
-    deb https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main non-free contrib
-    # deb-src https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main non-free contrib
+0x01 Editing the file:
 
     # USTC Env:
     deb https://mirrors.ustc.edu.cn/kali kali-rolling main non-free non-free-firmware contrib
