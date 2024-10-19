@@ -1,0 +1,95 @@
+# ==========================================================================
+# Title: ZhugePrajna Personal Dedicated "hosts" Settings
+# Date:  15 Otc 2024 15:37:00
+# Number of unique domains: 46
+# ==========================================================================
+# Blacklist Settings:
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+#
+# 0.0.0.0 example.com
+#
+# [Warning]
+# The adoption of the UDP protocol will break these blacklists!!!
+# ==========================================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# ==========================================================================
+# Custom host records are listed here.
+#
+# End of custom host records.
+# ==========================================================================
+# Start Executing The Blacklist:
+
+0.0.0.0 www.bilibili.com
+0.0.0.0 space.bilibili.com
+0.0.0.0 www.acfun.cn
+
+0.0.0.0 www.weibo.com
+0.0.0.0 weibo.com
+0.0.0.0 m.weibo.cn
+0.0.0.0 ent.sina.cn
+0.0.0.0 www.sina.com.cn
+0.0.0.0 news.sina.cn
+0.0.0.0 sina.cn
+0.0.0.0 finance.sina.com.cn
+
+0.0.0.0 www.douyin.com
+0.0.0.0 live.douyin.com
+0.0.0.0 www.kuaishou.com
+0.0.0.0 live.kuaishou.com
+
+0.0.0.0 age.tv
+0.0.0.0 agedm.org
+0.0.0.0 www.mandaom.com
+0.0.0.0 www.mandaow.com
+
+0.0.0.0 www.csdn.net
+0.0.0.0 juejin.cn
+
+0.0.0.0 www.zhihu.com
+0.0.0.0 zhuanlan.zhihu.com
+0.0.0.0 www.xiaohongshu.com
+
+0.0.0.0 baijiahao.baidu.com
+0.0.0.0 tieba.baidu.com
+
+0.0.0.0 news.qq.com
+0.0.0.0 www.msn.com
+0.0.0.0 www.msn.cn
+0.0.0.0 www.xinhuanet.com
+0.0.0.0 www.bjnews.com.cn
+0.0.0.0 news.sohu.com
+0.0.0.0 www.gmw.cn
+0.0.0.0 www.cfen.com.cn
+0.0.0.0 m.yicai.com
+0.0.0.0 news.163.com
+0.0.0.0 www.163.com
+0.0.0.0 m.163.com
+0.0.0.0 www.thepaper.cn
+
+0.0.0.0 www.qidian.com
+0.0.0.0 www.qdmm.com
+0.0.0.0 fanqienovel.com
+
+0.0.0.0 www.officeplus.cn
+0.0.0.0 pcmanager.microsoft.com
+0.0.0.0 lockscreen.microsoft.com
+0.0.0.0 start.microsoftapp.net
